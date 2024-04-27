@@ -46,7 +46,9 @@ for i in range(n):
     print("X%d = %0.2f"%(i,x[i]),end = " ")
 ```
 ## Output:
-![m1](https://github.com/Balaji-Jothiramalingam/Gaussian/assets/114234865/59b7134d-9015-48f6-9ff2-2d6bf7c6a598)
+
+![Screenshot 2024-04-27 092340](https://github.com/Balaji-Jothiramalingam/Gaussian/assets/114234865/2ada3b36-0f79-4f53-aaa2-be743545e3e2)
+
 
 
 
